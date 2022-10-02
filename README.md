@@ -1,4 +1,14 @@
-# Zora Create / Mint Page Template
+# Genuine Dead NFT
+
+This repo is set up to test the funcionality of minting with Zora.
+
+Minting Site is Found Here: 
+https://gen-dead-nft.vercel.app/
+
+Please Note: These NFTs are meant as a test only, they currently do not grant any special privledges.
+
+
+## Zora Create / Mint Page Template
 
 Demo site: <https://mint-page-template.vercel.app/>
 
